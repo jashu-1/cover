@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ab29314-5706-4a50-8a43-9b8c7310a3df)# Ex.06 Book Front Cover Page Design
+# Ex.06 Book Front Cover Page Design
 ## Date: 05/11/2024
 
 ## AIM:
